@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "adm-zip": "^0.4.7",
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.20.1",
     "child_process": "^1.0.2",
     "csvtojson": "^1.0.3",
     "express": "4.x",
